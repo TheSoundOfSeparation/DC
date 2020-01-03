@@ -50,3 +50,14 @@
 .navigation a:last-child{
   padding-right: 0;
 }
+.site_container{
+  background-color: white;
+  height: 600px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Poppins', sans-serif;
+}
+body{
+  background-color: #336699;
+}
