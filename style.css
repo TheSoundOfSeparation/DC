@@ -59,5 +59,6 @@
   font-family: 'Poppins', sans-serif;
 }
 body{
-  background-color: #336699;
+
+  background-image: radial-gradient(yellow, orange, red);
 }
